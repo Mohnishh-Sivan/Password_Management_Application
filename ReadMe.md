@@ -4,7 +4,7 @@
 <img src="ApplicationPreview.png">
 </p> 
 
-Designed and Developed a Password Management Application called SecurePass using C Programming Language and Data Structures.
+Designed and Developed a Command Line Interface based Password Management Application called SecurePass using C Programming Language and Data Structures.
 
 <h4>LICENSE AGREEMENT :-</h4>
 Released Under Massachusetts Institute Of Technology License.<br />
